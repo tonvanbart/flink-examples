@@ -2,5 +2,6 @@ target/
 *.class
 .idea/
 *.iml
+.factorypath
 
 dependency-reduced-pom.xml

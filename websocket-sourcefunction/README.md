@@ -1,0 +1,1 @@
+Example demonstrating how to turn a websocket connection into a Flink stream source.
